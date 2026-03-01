@@ -15,7 +15,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode" />
 </p>
-# 📊 GitHub Stats:
+📊 GitHub Stats:
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=anubhavgahlout17&theme=dark&hide_border=false)
 
