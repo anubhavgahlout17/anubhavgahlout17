@@ -5,18 +5,18 @@
 # 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anubhav-gahlout">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/anubhav.gahlout">
+  <a
+    href="https://www.linkedin.com/in/anubhav-gahlout"><img 
+      src="https://skillicons.dev/icons?i=linkedin" />
+  </a><a
+        href="https://www.instagram.com/anubhav.gahlout">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://x.com/anubhav_gahlout">
+  </a><a 
+        href="https://x.com/anubhav_gahlout">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  
-  <a href="mailto:anubhav.gahlout17@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a><a 
+        href="mailto:anubhav.gahlout17@gmail.com"> <img 
+        \src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
