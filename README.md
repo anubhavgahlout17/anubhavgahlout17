@@ -5,19 +5,10 @@
 # 🌐 Connect with me
 
 <p align="left">
-  <a
-    href="https://www.linkedin.com/in/anubhav-gahlout"><img 
-      src="https://skillicons.dev/icons?i=linkedin" />
-  </a><a
-        href="https://www.instagram.com/anubhav.gahlout">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a><a 
-        href="https://x.com/anubhav_gahlout">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a><a 
-        href="mailto:anubhav.gahlout17@gmail.com"> <img 
-        \src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/anubhav-gahlout"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.instagram.com/anubhav.gahlout"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://x.com/anubhav_gahlout"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="mailto:anubhav.gahlout17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 # 💻 Tech Stack:
