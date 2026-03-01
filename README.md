@@ -10,9 +10,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode" />
 </p>
 # 📊 GitHub Stats:
-## 📊 GitHub Stats
-
-(https://github-readme-stats.vercel.app/api?username=anubhavgahlout17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=anubhavgahlout17&theme=dark&hide_border=false)
 
