@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on improving my Data Structures concepts.<br>I’m looking to collaborate on beginner-level C/C++ projects.<br>I’m looking for help with strengthening my programming logic and problem-solving skills.<br>I’m currently learning Data Structures in C and starting OOP using C++ .<br>Ask me about basic C/C++ programming and Data Structures fundamentals.<br>Fun fact: I’m a BCA student building my coding foundation step by step.
+🔭 I’m currently working on strengthening my Data Structures concepts.<br><br>👯 I’m looking to collaborate on beginner-level C/C++ projects.<br><br>🤝 I’m looking for help with improving my programming logic and problem-solving skills.<br><br>🌱 I’m currently learning Data Structures in C and Object-Oriented Programming using C++.<br><br>💬 Ask me about basic C programming and OOP fundamentals in C++.<br><br>⚡ Fun fact: I’m a BCA student building strong programming fundamentals step by step.
 
 
 ## 🌐 Socials:
