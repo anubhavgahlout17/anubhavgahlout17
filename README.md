@@ -2,14 +2,25 @@
 🔭 I’m currently working on strengthening my Data Structures concepts.<br><br>👯 I’m looking to collaborate on beginner-level C/C++ projects.<br><br>🤝 I’m looking for help with improving my programming logic and problem-solving skills.<br><br>🌱 I’m currently learning Data Structures in C and Object-Oriented Programming using C++.<br><br>💬 Ask me about basic C programming and OOP fundamentals in C++.<br><br>⚡ Fun fact: I’m a BCA student building strong programming fundamentals step by step.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anubhav.gahlout)
+# 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-gahlout)
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anubhav_gahlout)
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anubhav.gahlout17@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/anubhav-gahlout">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/anubhavgahlout17">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://x.com/anubhav_gahlout">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/anubhav.gahlout">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:anubhav.gahlout17@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 <p align="left">
