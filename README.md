@@ -8,15 +8,13 @@
   <a href="https://www.linkedin.com/in/anubhav-gahlout">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/anubhavgahlout17">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://www.instagram.com/anubhav.gahlout">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://x.com/anubhav_gahlout">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.instagram.com/anubhav.gahlout">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  
   <a href="mailto:anubhav.gahlout17@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
