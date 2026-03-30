@@ -15,10 +15,5 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode" />
 </p>
-📊 GitHub Stats:
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=anubhavgahlout17&theme=dark&hide_border=false)
-
-[![](https://visitcount.itsvg.in/api?id=anubhavgahlout17&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
